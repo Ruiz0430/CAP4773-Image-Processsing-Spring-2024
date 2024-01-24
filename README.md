@@ -2,6 +2,7 @@
 ## Author: Daniel Ruiz
 
 ## Overview
+*
 - [X] Read an image into a workspace variable.
       ⋅⋅* User is able to choose from a set of images which image they would like to use via dropdown button.
 - [X] Display the image.
